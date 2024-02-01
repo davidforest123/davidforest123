@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 Research Direction: Quantitative Trading
+- 🌱 Favorite Languages: Zig/Go/Dart
