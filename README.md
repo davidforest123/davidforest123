@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🔭 Research Direction: Quantitative Trading
-- 🌱 Favorite Languages: Zig/Go/Dart
+- 🌱 Favorite Languages: Zig/Go/Python/Dart
